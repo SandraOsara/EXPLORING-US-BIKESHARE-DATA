@@ -62,6 +62,8 @@ In this project, i wrote code to provide the following information:
 - counts of each gender (only available for NYC and Chicago)
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-The analysis and result of this project is seen in
+The analysis and result of this project is seen in the ipynb file in the link below
+
+https://github.com/SandraOsara/EXPLORING-US-BIKESHARE-DATA/blob/main/MY%20BIKE%20PROJECT.ipynb
 
 
